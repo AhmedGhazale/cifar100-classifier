@@ -11,7 +11,7 @@
 ### installation:
 first clone the repo and got to the directory
 ```bash
-git clone
+git clone https://github.com/AhmedGhazale/cifar100-classifier.git
 cd cifar100-classifier
 ```
 #### Dependencies
