@@ -3,8 +3,7 @@
 * cifar 100 is a dataset of  of 100 different classes, it's divided into 50000 training data and 10000 test data.
 * the goal is to develop a classifier using Convolutional nural network which is able to achive high accuracy on test data.
 ### about:
-* the project is divided into three parts :
-  * data loading  handeled by **dataset.py**
+* the project is divided into 2 parts :
   * bulinding the model and the training operation  handeled by **classifier.py**
   * running the code and getting the results handeled by **pipline.py**
 * to change the parameters of the training like batch size or learninig rate you edit that in **config.py** file
