@@ -26,4 +26,3 @@ def make_dataset(images,labels,batch_size,epochs,shuffle=True):
 
 
 
-
