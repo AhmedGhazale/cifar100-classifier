@@ -40,4 +40,3 @@ clasifier = Classifier((cfg.image_size,cfg.image_size,cfg.image_channels),cfg.cl
 clasifier.train((train_img,train_lab),(test_img,test_lab),cfg.epochs,cfg.batch_size,cfg.learning_rate,cfg.save_model_path)
 
 
-
